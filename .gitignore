@@ -6,6 +6,10 @@ __pycache__/
 # C extensions
 *.so
 
+#More Files
+app.py
+climate_analysis.ipynb
+
 # Distribution / packaging
 .Python
 build/
