@@ -52,8 +52,10 @@ The second query tabulated the frequency at which each unique temperatured was o
   plt.title('Temperature Frequencies
   
   ```
-  ![Frequency Graph](urlgoeshere)
+  ![Frequency Graph](https://github.com/dkristek/surfs_up/blob/main/resources/freq_plot.png)
   
 </details>
+
+In conclusion these two queries will provide more information regarding the year-round climate of Oahu.
 
 
